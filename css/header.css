@@ -4,6 +4,7 @@ header {
   width: 98vw;
   justify-content: space-between;
   align-items: center;
+  margin: 10px;
 }
 
 .header-column {
@@ -11,6 +12,7 @@ header {
   justify-content: center;
   align-items: center;
   gap: 10px;
+  padding: 0px 30px 0px 30px;
 }
 
 .header-icon {
