@@ -1,0 +1,30 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+#timer {
+  font-size: large;
+  font-weight: bold;
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.board-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #dee0e3;
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+  font-weight: bold;
+}
